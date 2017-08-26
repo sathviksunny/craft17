@@ -1,0 +1,143 @@
+Column 0,key,title,level,expected_duration,score,domain
+15,ud353,Firebase Analytics: iOS,intermediate,1,10,iOS
+16,ud354,Firebase Analytics: Android,intermediate,2,10,Android
+24,ud843,Android Basics: Networking,beginner,5,5,Android
+33,ud615,Scalable Microservices with Kubernetes,intermediate,1,10,Software Engineering
+37,ud513,Technical Interview,intermediate,4,10,Software Engineering
+38,ud834,Android for Beginners,beginner,2,5,Android
+39,ud836,Android Basics: User Input,beginner,4,5,Android
+40,ud839,Android Basics: Multiscreen Apps,beginner,2,5,Android
+41,ud843,Android Basics: Networking,beginner,5,5,Android
+42,ud845,Android Basics: Data Storage,beginner,8,5,Android
+47,ud851,New Android Fundamentals,intermediate,10,10,Android
+48,ud853,Developing Android Apps,intermediate,10,10,Android
+49,ud855,Advanced Android App Development,advanced,6,20,Android
+50,ud867,Gradle for Android and Java,advanced,6,20,Android
+51,ud876-1,Google Location Services on Android,intermediate,2,10,Android
+52,ud876-2,Google Analytics for Android,intermediate,2,10,Android
+53,ud876-3,Monetize Your Android App with Ads,intermediate,2,10,Android
+54,ud876-4,Add Google Maps to your Android App,intermediate,2,10,Android
+55,ud825,Android Performance,advanced,4,20,Android
+56,ud862,Material Design for Android Developers,intermediate,4,10,Android
+57,ud875A,Android Wear Development,advanced,2,20,Android
+58,ud875B,Android TV and Google Cast Development,advanced,1,20,Android
+58,ud875B,Android TV and Google Cast Development,advanced,1,20,Android
+59,ud875C,Android Auto Development,advanced,1,20,Android
+60,ud009,Firebase Essentials For Android,advanced,8,20,Android
+61,ud806,Get Your Startup Started,intermediate,3,10,Non-Tech
+62,ud509,Product Design,intermediate,2,10,Non-Tech
+63,ud518,App Monetization,intermediate,1,10,Non-Tech
+64,ud723,Rapid Prototyping,intermediate,3,10,Non-Tech
+65,ud719,App Marketing,intermediate,2,10,Non-Tech
+70,ud894,Front End Frameworks,advanced,8,20,Web Development
+71,ud899,Offline Web Applications,intermediate,3,10,Web Development
+72,ud898,JavaScript Promises,advanced,3,20,Web Development
+72,ud898,JavaScript Promises,advanced,3,20,Web Development
+73,ud890,Building High Conversion Web Forms,intermediate,2,10,Web Development
+74,ud892,Web Tooling & Automation,intermediate,3,10,Web Development
+75,ud388,Designing RESTful APIs,intermediate,3,10,Web Development
+78,ud304,Intro to HTML and CSS,beginner,3,5,Web Development
+79,cs101,Intro to Computer Science,beginner,3,5,Data Science
+79,cs101,Intro to Computer Science,beginner,3,5,Web Development
+79,cs101,Intro to Computer Science,beginner,3,5,Software Engineering
+80,ud282,Java Programming Basics,beginner,6,5,Software Engineering
+80,ud282,Java Programming Basics,beginner,6,5,Android
+81,ud256,Networking for Web Developers,beginner,2,5,Software Engineering
+82,ud804,JavaScript Basics,beginner,3,5,Web Development
+83,ud595,Linux Command Line Basics,beginner,1,5,Web Development
+84,ud775,How to Use Git and GitHub,beginner,3,5,Web Development
+84,ud775,How to Use Git and GitHub,beginner,3,5,Software Engineering
+85,ud036,Programming Foundations with Python,beginner,6,5,Web Development
+85,ud036,Programming Foundations with Python,beginner,6,5,Software Engineering
+86,ud585,Intro to iOS App Development with Swift,intermediate,1,10,iOS
+87,ud197,Intro to Relational Databases,intermediate,4,10,Web Development
+88,ud088,Full Stack Foundations,intermediate,3,10,Web Development
+89,ud330,Authentication & Authorization: OAuth,intermediate,2,10,Web Development
+90,ud893,Responsive Web Design Fundamentals,intermediate,2,10,Web Development
+91,ud882,Responsive Images,intermediate,2,10,Web Development
+92,ud860,Browser Rendering Optimization,advanced,1,20,Web Development
+93,ud858,Developing Scalable Apps in Python,advanced,6,20,Web Development
+94,ud989,JavaScript Design Patterns,advanced,6,20,Web Development
+95,ud990,Learn Backbone.js,advanced,2,20,Web Development
+96,ud549,JavaScript Testing,intermediate,2,10,Web Development
+97,ud299,Configuring Linux Web Servers,advanced,1,20,Web Development
+98,ep245,How to Build a Startup,intermediate,1,10,Non-Tech
+99,ud902,Learn Swift Programming Syntax,intermediate,3,10,iOS
+100,ud788,UIKit Fundamentals,intermediate,2,10,iOS
+101,ud421,iOS Networking with Swift,advanced,3,20,iOS
+102,ud325,iOS Persistence and Core Data,advanced,2,20,iOS
+103,ud1009,Objective-C for Swift Developers,intermediate,5,10,iOS
+104,ud774,Xcode Debugging,advanced,3,20,iOS
+105,ud607,How to Make an iOS App,advanced,3,20,iOS
+106,ud257,A/B Testing,intermediate,1,10,Data Science
+108,ud507,Data Visualization and D3.js,intermediate,7,10,Data Science
+109,ud120,Intro to Machine Learning,intermediate,10,10,Data Science
+110,ud617,Intro to Hadoop and MapReduce,intermediate,1,10,Data Science
+110,ud617,Intro to Hadoop and MapReduce,intermediate,1,10,Software Engineering
+111,ud381,Real-Time Analytics with Apache Storm,intermediate,2,10,Data Science
+112,ud170,Intro to Data Analysis,beginner,6,5,Data Science
+113,ud359,Intro to Data Science,intermediate,2,10,Data Science
+114,cs253,Web Development,intermediate,3,10,Web Development
+116,ud015,Object-Oriented JavaScript,intermediate,5,10,Web Development
+117,ud292,HTML5 Canvas,beginner,2,5,Web Development
+118,ud245,Intro to jQuery,intermediate,2,10,Web Development
+119,ud110,Intro to AJAX,intermediate,2,10,Web Development
+120,cs271,Intro to Artificial Intelligence,intermediate,4,10,Software Engineering
+121,ud651,Data Analysis with R,intermediate,2,10,Data Science
+122,ud849,UX Design for Mobile Developers,beginner,6,5,Android
+123,ud162,Intro to Point & Click App Development,beginner,1,5,Web Development
+124,ud859,Developing Scalable Apps in Java,advanced,2,20,Web Development
+125,cs344,Intro to Parallel Programming,advanced,3,20,Software Engineering
+126,ud827,Intro to Descriptive Statistics,beginner,2,5,Data Science
+127,ud201,Intro to Inferential Statistics,beginner,2,5,Data Science
+128,ud923,Introduction to Operating Systems,intermediate,2,10,Georgia Tech Masters in CS
+129,ud459,Intro to Information Security,intermediate,0,10,Georgia Tech Masters in CS
+130,ud189,Advanced Operating Systems,advanced,5,20,Georgia Tech Masters in CS
+131,ud409,Knowledge-Based AI: Cognitive Systems,advanced,7,20,Georgia Tech Masters in CS
+132,ud501,Machine Learning for Trading,intermediate,4,10,Georgia Tech Masters in CS
+133,ud007,High Performance Computer Architecture,advanced,0,20,Georgia Tech Masters in CS
+134,ud281,High Performance Computing,advanced,6,20,Georgia Tech Masters in CS
+135,ud809,Health Informatics in the Cloud,beginner,5,5,Georgia Tech Masters in CS
+136,ud436,Computer Networking,intermediate,3,10,Web Development
+136,ud436,Computer Networking,intermediate,3,10,Georgia Tech Masters in CS
+137,ud955,Computational Photography,intermediate,4,10,Georgia Tech Masters in CS
+138,ud805,Software Development Process,intermediate,3,10,Software Engineering
+138,ud805,Software Development Process,intermediate,3,10,Georgia Tech Masters in CS
+139,ud821,Software Architecture & Design,intermediate,2,10,Georgia Tech Masters in CS
+140,cs373,Artificial Intelligence for Robotics,advanced,2,20,Software Engineering
+140,cs373,Artificial Intelligence for Robotics,advanced,2,20,Georgia Tech Masters in CS
+141,ud810,Introduction to Computer Vision,intermediate,4,10,Georgia Tech Masters in CS
+142,ud915,Educational Technology,beginner,16,5,Georgia Tech Masters in CS
+143,ud600,Reinforcement Learning,advanced,4,20,Data Science
+143,ud600,Reinforcement Learning,advanced,4,20,Georgia Tech Masters in CS
+144,ud953,Linear Algebra Refresher Course,intermediate,0,10,Georgia Tech Masters in CS
+145,ud032,Data Wrangling with MongoDB,intermediate,2,10,Data Science
+145,ud032,Data Wrangling with MongoDB,intermediate,2,10,Software Engineering
+146,ud919,Model Building and Validation,advanced,8,20,Data Science
+147,ud730,Deep Learning,advanced,3,20,Data Science
+148,design101,Intro to the Design of Everyday Things,beginner,2,5,Non-Tech
+149,cs256,Mobile Web Development,intermediate,6,10,Web Development
+150,ud884,Website Performance Optimization,intermediate,1,10,Web Development
+152,cs255,HTML5 Game Development,intermediate,2,10,Web Development
+153,cs387,Applied Cryptography,advanced,2,20,Software Engineering
+154,st101,Intro to Statistics,beginner,2,5,Data Science
+155,ma004,Intro Algebra Review,beginner,2,5,Non-Tech
+156,ma008,College Algebra,beginner,4,5,Non-Tech
+157,ma006,Visualizing Algebra,beginner,4,5,Non-Tech
+158,cs258,Software Testing,intermediate,1,10,Software Engineering
+159,cs215,Intro to Algorithms,intermediate,4,10,Software Engineering
+160,cs291,Interactive 3D Graphics,intermediate,2,10,Software Engineering
+161,cs262,Programming Languages,intermediate,2,10,Software Engineering
+162,cs212,Design of Computer Programs,advanced,2,20,Software Engineering
+163,cs222,Differential Equations in Action,intermediate,2,10,Non-Tech
+164,cs259,Software Debugging,intermediate,2,10,Software Engineering
+165,cs313,Intro to Theoretical Computer Science,intermediate,2,10,Software Engineering
+166,ud262,Machine Learning,intermediate,4,10,Data Science
+166,ud262,Machine Learning,intermediate,4,10,Georgia Tech Masters in CS
+167,ph100,Intro to Physics,beginner,2,5,Non-Tech
+168,bio110,Tales from the Genome,beginner,3,5,Non-Tech
+169,ps001,Intro to Psychology,beginner,4,5,Non-Tech
+171,ud098,GT - Refresher - Advanced OS,intermediate,3,10,Georgia Tech Masters in CS
+172,ud1009,Objective-C for Swift Developers,intermediate,5,10,iOS
+180,ud834,Android for Beginners,beginner,2,5,Android
+181,ud836,Android Basics: User Input,beginner,4,5,Android
