@@ -1,0 +1,188 @@
+,key,title,level,expected_duration
+0,ud109,Asynchronous JavaScript Requests,intermediate,3
+1,ud210,C++ For Programmers,intermediate,3
+2,ud1110,Introduction to Python,beginner,5
+3,ud954,Artificial Intelligence,intermediate,4
+4,ud404,Data Analysis and Visualization,intermediate,16
+5,ud610,Localization Essentials,beginner,2
+6,ud400,Human-Computer Interaction,intermediate,16
+7,ud333,Software Analysis & Testing,intermediate,16
+8,ud279,Cyber-Physical Systems Security,intermediate,16
+9,ud199,Network Security,intermediate,16
+10,ud169,Embedded Systems,intermediate,16
+12,ud150,Database Systems Concepts & Design,intermediate,16
+13,ud456,GitHub & Collaboration,beginner,3
+14,ud356,ES6 - JavaScript Improved,advanced,4
+15,ud123,Version Control with Git,beginner,5
+16,ud353,Firebase Analytics: iOS,intermediate,1
+17,ud354,Firebase Analytics: Android,intermediate,2
+18,ud1028,Passwordless Login Solutions for iOS,intermediate,1
+19,ud357,Passwordless Login Solutions for Android,intermediate,1
+20,ud206,Shell Workshop,beginner,1
+21,ud303,HTTP & Web Servers,intermediate,1
+22,ud1015,VR Platforms & Applications,beginner,2
+24,ud1014,VR Software Development,beginner,1
+25,ud1031,Server-Side Swift,intermediate,4
+26,ud843,Android Basics: Networking,beginner,5
+27,ud1000,Deploying a Hadoop Cluster,intermediate,3
+28,ud1030,Continuous Integration and Deployment,intermediate,2
+29,ud1027,Building iOS Interfaces,intermediate,2
+31,ud1012,Introduction to Virtual Reality,beginner,2
+32,ud1013,VR Scenes and Objects,beginner,2
+33,ud1022,Swift for Beginners,beginner,7
+34,ud1025,Swift for Developers,intermediate,7
+35,ud1026,AutoLayout,intermediate,6
+36,ud615,Scalable Microservices with Kubernetes,intermediate,1
+37,ud811,Intro to Progressive Web Apps,intermediate,2
+38,ud891,Web Accessibility,advanced,6
+39,ud864,Google Maps APIs,intermediate,2
+40,ud513,Technical Interview,intermediate,4
+41,ud834,Android for Beginners,beginner,2
+42,ud836,Android Basics: User Input,beginner,4
+43,ud839,Android Basics: Multiscreen Apps,beginner,2
+44,ud843,Android Basics: Networking,beginner,5
+45,ud845,Android Basics: Data Storage,beginner,8
+46,ud976,Problem Solving with Advanced Analytics,beginner,2
+47,ud977,Creating an Analytical Dataset,beginner,2
+48,ud978,Classification Models,intermediate,2
+49,ud803,Intro to JavaScript,beginner,0
+50,ud851,New Android Fundamentals,intermediate,10
+51,ud853,Developing Android Apps,intermediate,10
+52,ud855,Advanced Android App Development,advanced,6
+53,ud867,Gradle for Android and Java,advanced,6
+54,ud876-1,Google Location Services on Android,intermediate,2
+55,ud876-2,Google Analytics for Android,intermediate,2
+56,ud876-3,Monetize Your Android App with Ads,intermediate,2
+57,ud876-4,Add Google Maps to your Android App,intermediate,2
+58,ud825,Android Performance,advanced,4
+59,ud862,Material Design for Android Developers,intermediate,4
+60,ud875A,Android Wear Development,advanced,2
+61,ud875B,Android TV and Google Cast Development,advanced,1
+62,ud875C,Android Auto Development,advanced,1
+63,ud009,Firebase Essentials For Android,advanced,8
+64,ud806,Get Your Startup Started,intermediate,3
+65,ud509,Product Design,intermediate,2
+66,ud518,App Monetization,intermediate,1
+67,ud723,Rapid Prototyping,intermediate,3
+68,ud719,App Marketing,intermediate,2
+69,ud405,2D Game Development with libGDX,intermediate,8
+70,ud406,How to Make a Platformer Using libGDX,intermediate,8
+71,ud407,Engagement & Monetization | Mobile Games,beginner,3
+72,ud897,Client-Server Communication,advanced,5
+73,ud894,Front End Frameworks,advanced,8
+74,ud899,Offline Web Applications,intermediate,3
+75,ud898,JavaScript Promises,advanced,3
+76,ud890,Building High Conversion Web Forms,intermediate,2
+77,ud892,Web Tooling & Automation,intermediate,3
+78,ud388,Designing RESTful APIs,intermediate,3
+79,ud777,Writing READMEs,beginner,3
+80,ud611,Intro to DevOps,advanced,3
+81,ud304,Intro to HTML and CSS,beginner,3
+82,cs101,Intro to Computer Science,beginner,3
+83,ud282,Java Programming Basics,beginner,6
+84,ud256,Networking for Web Developers,beginner,2
+85,ud804,JavaScript Basics,beginner,3
+86,ud595,Linux Command Line Basics,beginner,1
+87,ud775,How to Use Git and GitHub,beginner,3
+88,ud036,Programming Foundations with Python,beginner,6
+89,ud585,Intro to iOS App Development with Swift,intermediate,1
+90,ud197,Intro to Relational Databases,intermediate,4
+91,ud088,Full Stack Foundations,intermediate,3
+92,ud330,Authentication & Authorization: OAuth,intermediate,2
+93,ud893,Responsive Web Design Fundamentals,intermediate,2
+94,ud882,Responsive Images,intermediate,2
+95,ud860,Browser Rendering Optimization,advanced,1
+96,ud858,Developing Scalable Apps in Python,advanced,6
+97,ud989,JavaScript Design Patterns,advanced,6
+98,ud990,Learn Backbone.js,advanced,2
+99,ud549,JavaScript Testing,intermediate,2
+100,ud299,Configuring Linux Web Servers,advanced,1
+101,ep245,How to Build a Startup,intermediate,1
+102,ud902,Learn Swift Programming Syntax,intermediate,3
+103,ud788,UIKit Fundamentals,intermediate,2
+104,ud421,iOS Networking with Swift,advanced,3
+106,ud325,iOS Persistence and Core Data,advanced,2
+107,ud1009,Objective-C for Swift Developers,intermediate,5
+108,ud774,Xcode Debugging,advanced,3
+109,ud607,How to Make an iOS App,advanced,3
+110,ud257,A/B Testing,intermediate,1
+111,ud257-certified,A/B Testing (Certified Course),intermediate,1
+112,ud507,Data Visualization and D3.js,intermediate,7
+113,ud120,Intro to Machine Learning,intermediate,10
+114,ud617,Intro to Hadoop and MapReduce,intermediate,1
+115,ud381,Real-Time Analytics with Apache Storm,intermediate,2
+116,ud170,Intro to Data Analysis,beginner,6
+117,ud359,Intro to Data Science,intermediate,2
+118,cs253,Web Development,intermediate,3
+119,ud891,Web Accessibility,advanced,6
+120,ud015,Object-Oriented JavaScript,intermediate,5
+121,ud292,HTML5 Canvas,beginner,2
+122,ud245,Intro to jQuery,intermediate,2
+123,ud110,Intro to AJAX,intermediate,2
+124,cs271,Intro to Artificial Intelligence,intermediate,4
+125,ud651,Data Analysis with R,intermediate,2
+126,ud849,UX Design for Mobile Developers,beginner,6
+127,ud162,Intro to Point & Click App Development,beginner,1
+128,ud859,Developing Scalable Apps in Java,advanced,2
+129,cs344,Intro to Parallel Programming,advanced,3
+130,ud827,Intro to Descriptive Statistics,beginner,2
+131,ud201,Intro to Inferential Statistics,beginner,2
+132,ud923,Introduction to Operating Systems,intermediate,2
+133,ud459,Intro to Information Security,intermediate,0
+134,ud189,Advanced Operating Systems,advanced,5
+136,ud409,Knowledge-Based AI: Cognitive Systems,advanced,7
+137,ud501,Machine Learning for Trading,intermediate,4
+138,ud007,High Performance Computer Architecture,advanced,0
+139,ud281,High Performance Computing,advanced,6
+140,ud809,Health Informatics in the Cloud,beginner,5
+142,ud436,Computer Networking,intermediate,3
+143,ud955,Computational Photography,intermediate,4
+144,ud805,Software Development Process,intermediate,3
+145,ud821,Software Architecture & Design,intermediate,2
+146,cs373,Artificial Intelligence for Robotics,advanced,2
+147,ud810,Introduction to Computer Vision,intermediate,4
+148,ud915,Educational Technology,beginner,16
+149,ud600,Reinforcement Learning,advanced,4
+150,ud953,Linear Algebra Refresher Course,intermediate,0
+151,ud032,Data Wrangling with MongoDB,intermediate,2
+152,ud919,Model Building and Validation,advanced,8
+153,ud730,Deep Learning,advanced,3
+154,design101,Intro to the Design of Everyday Things,beginner,2
+155,cs256,Mobile Web Development,intermediate,6
+156,ud884,Website Performance Optimization,intermediate,1
+157,ud248,Make Your Own 2048,beginner,1
+158,cs255,HTML5 Game Development,intermediate,2
+159,cs387,Applied Cryptography,advanced,2
+160,st101,Intro to Statistics,beginner,2
+161,ma004,Intro Algebra Review,beginner,2
+162,ma008,College Algebra,beginner,4
+163,ma006,Visualizing Algebra,beginner,4
+164,cs258,Software Testing,intermediate,1
+165,cs215,Intro to Algorithms,intermediate,4
+166,cs291,Interactive 3D Graphics,intermediate,2
+167,cs262,Programming Languages,intermediate,2
+168,cs212,Design of Computer Programs,advanced,2
+169,cs222,Differential Equations in Action,intermediate,2
+170,cs259,Software Debugging,intermediate,2
+171,cs313,Intro to Theoretical Computer Science,intermediate,2
+172,ud262,Machine Learning,intermediate,4
+173,ph100,Intro to Physics,beginner,2
+174,bio110,Tales from the Genome,beginner,3
+175,ps001,Intro to Psychology,beginner,4
+176,gt101,OMSCS Student Orientation,beginner,0
+177,ud098,GT - Refresher - Advanced OS,intermediate,3
+178,ud1009,Objective-C for Swift Developers,intermediate,5
+179,ud268,Dynamic Web Applications with Sinatra,intermediate,2
+180,ud270,The MVC Pattern in Ruby,intermediate,1
+181,ud272,Deploying Applications with Heroku,intermediate,1
+182,ud980,Time Series Forecasting,intermediate,3
+183,ud979,A/B Testing,intermediate,3
+184,ud981,Segmentation and Clustering,intermediate,3
+185,ud1006,Data Visualization in Tableau,beginner,3
+187,ud834,Android for Beginners,beginner,2
+188,ud836,Android Basics: User Input,beginner,4
+190,ud0351,Firebase in a Weekend by Google: iOS,intermediate,2
+191,ud000,Intro to Programming,beginner,8
+192,st095,Statistics,beginner,4
+193,ud853ar,Developing Android Apps,intermediate,10
+194,ud853-dub-ar,Developing Android Apps,intermediate,10
